@@ -1,0 +1,29 @@
+Export log for : PCB.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX236Y236D1571
+AddingPadStyle EF40X60TOP1
+AddingPadStyle EF47X36TOP1
+AddingPadStyle EF36X36TOP1
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX59Y59D351
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H39W8
+Adding PatternDef SMD-0805C_1
+Adding PatternDef SMD-0805C_2
+Adding PatternDef HLGA6L_1
+Adding PatternDef HDR1X2_1
+Adding CompDef SMD-0805C_1
+Adding CompDef SMD-0805C_2
+Adding CompDef HLGA6L_1
+Adding CompDef HDR1X2_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog
