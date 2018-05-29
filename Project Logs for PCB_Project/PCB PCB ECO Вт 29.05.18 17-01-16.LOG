@@ -1,0 +1,9 @@
+Added Component: Designator=mic(HLGA6L)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=mic-1
+Added Pin To Net: NetName=GND Pin=mic-2
+Added Pin To Net: NetName=GND Pin=mic-3
+Added Pin To Net: NetName=Netclk data_2 Pin=mic-4
+Added Pin To Net: NetName=Netclk data_1 Pin=mic-5
+Added Pin To Net: NetName=VCC Pin=mic-6
+Added Member To Class: ClassName=Scheme Member=Component mic MP45DT02
